@@ -1,4 +1,4 @@
-Thank you for downloading logback, the reliable, generic, fast and
+x`Thank you for downloading logback, the reliable, generic, fast and
 flexible logging library for Java.
 
 The Logback documentation can be found under the docs/ directory.
